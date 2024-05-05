@@ -1,9 +1,4 @@
-<html>
-<body>
-        <video height="200" width="400" controls>
-            <source src="">
-        </video>
-  
+ 
 <h1 align="center">Hi 👋, I'm Hemanth Kumar</h1>
 <h5 align="center">I am dedicated, hardworking, and diligent, striving to complete tasks with precision. My aspiration is to become one of the top developers in the field.</h5>
 <img align="right" alt="coding" width="350" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35d41654933123.596f84ed7b938.gif"
@@ -32,5 +27,4 @@
 <p><img align="left" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemanthdamineni16&show_icons=true&locale=en&layout=compact" alt="hemanthdamineni16" /></p>
 
 <p>&nbsp;<img align="center" width="330" height="200" src="https://github-readme-stats.vercel.app/api?username=hemanthdamineni16&show_icons=true&locale=en" alt="hemanthdamineni16" /></p>
-</body>
-</html>
+
