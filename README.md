@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanthdamineni16&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthdamineni16" /> </p>
 
-- 🔭 I am currently looking for entry-level **developer opportunities.**
+- 🔭 I am currently looking for **developer opportunities.**
 
 - 🌱 I’m currently learning **machine learning**
 
