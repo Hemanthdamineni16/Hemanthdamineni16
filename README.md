@@ -1,4 +1,7 @@
- 
+<p align="center">
+  <img src="https://github.com/Hemanthdamineni16/Hemanthdamineni16/blob/main/banner.gif" alt="MasterHead" height="300" width="1000">
+</p>
+
 <h1 align="center">Hi 👋, I'm Hemanth Kumar</h1>
 <h5 align="center">I am dedicated, hardworking, and diligent, striving to complete tasks with precision. My aspiration is to become one of the top developers in the field.</h5>
 <img align="right" alt="coding" width="350" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/35d41654933123.596f84ed7b938.gif"
