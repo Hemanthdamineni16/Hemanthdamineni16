@@ -11,7 +11,7 @@
 
 - 🔭 I am currently looking for **developer opportunities.**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **machine learning**.
 
 - 💬 Ask me about **Python, MySQL**, **Pandas**, **NumPy, Matplotlib**, **Django**, **Jupyter Notebook**, and my experience with building projects and analyzing data.
 
