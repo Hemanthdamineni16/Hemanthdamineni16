@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **python, MySQL**, **Pandas**, **NumPy, Matplotlib**, **Django**, **Jupyter Notebook**, and my experience with building projects and analyzing data.
+- 💬 Ask me about **Python, MySQL**, **Pandas**, **NumPy, Matplotlib**, **Django**, **Jupyter Notebook**, and my experience with building projects and analyzing data.
 
 - 📫 How to reach me **daminenihemanthkumar@gmail.com**
 
